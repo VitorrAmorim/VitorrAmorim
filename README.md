@@ -12,7 +12,7 @@ My name is Vitor Amorim, I am 18 years old, and I am from Indaiatuba. I complete
 <img align="left" alt="JavaScript" title="JavaScript"  width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 
-<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 
 
 <img align="left" alt="NodeJs" title="NodeJs" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
