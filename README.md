@@ -29,3 +29,25 @@ My name is Vitor Amorim, I am 18 years old, and I am from Indaiatuba. I complete
 
 
 <img align="left" alt="GitHub Technologies" height="180" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical&include_all_commits=true&layout=compact&custom_title=Technologies&langs_count=8" />
+
+###
+
+<br  />
+<br  />
+<br  />
+<br  />
+<br  />
+<br  />
+<br  />
+
+## 📱 Social Media & Contacts
+
+<p align="start">
+    <a href="">
+    </a>
+    <a href="mailto:vi29biel@gmail.com">
+        <img alt="Gmail" title="My Gmail" src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+    <a href="www.linkedin.com/in/vitoramorimm">
+        <img alt="LinkedIn" title="My LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
