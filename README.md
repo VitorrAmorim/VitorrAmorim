@@ -42,12 +42,11 @@ My name is Vitor Amorim, I am 18 years old, and I am from Indaiatuba. I complete
 
 ## 📱 Social Media & Contacts
 
-<p align="start">
-    <a href="">
-    </a>
-    <a href="mailto:vi29biel@gmail.com">
-        <img alt="Gmail" title="My Gmail" src="https://skillicons.dev/icons?i=gmail" />
-    </a>
-    <a href="www.linkedin.com/in/vitoramorimm">
-        <img alt="LinkedIn" title="My LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
+<div align="center">
+  <a href="www.linkedin.com/in/vitoramorimm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:vi29biel@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
