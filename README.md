@@ -20,6 +20,10 @@ My name is Vitor Amorim, I am 18 years old, and I am from Indaiatuba. I complete
 
 <img align="left" alt="NodeJs" title="NodeJs" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
+
+<img align="left" alt="NodeJs" title="NodeJs" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+
 <br />
 <br />
 
