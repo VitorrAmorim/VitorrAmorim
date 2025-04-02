@@ -19,6 +19,6 @@ My name is Vitor Amorim, I am 18 years old, and I am from Indaiatuba. I complete
 ## 📈 Statistics
 
 <div style="display: flex; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VitorrAmorim&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical&include_all_commits=true&layout=compact&custom_title=Technologies&langs_count=8" alt="GitHub Technologies" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=VitorrAmorim&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical&include_all_commits=true&layout=compact&custom_title=Technologies&langs_count=8" alt="GitHub Technologies" height="200">
 </div>
