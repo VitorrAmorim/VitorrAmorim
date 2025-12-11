@@ -1,6 +1,6 @@
 # 💻 Vitor Amorim
 
-My name is Vitor Amorim, I am 18 years old, and I am from Indaiatuba. I completed high school in 2024 and am currently in the last semester of my Technical course in IT at FIEC. I am also in my first semester of the Multiplatform Software Development (DSM) program at FATEC Indaiatuba.
+My name is Vitor Amorim, I am 19 years old, and I am from Indaiatuba, SP. I currently work as a Web Development Intern at FIEC and hold a technical degree as an IT Technician. I am also in the second semester (2/6) of the Multiplatform Software Development (DSM) program at FATEC Indaiatuba.
 
 ## ⚙️ Languages and Technologies
 
