@@ -1,24 +1,28 @@
-# 💻 Vitor Amorim
+<p align="center">
+  <img src="./banner.png" alt="Banner do Vitor Amorim" width="1000" height="250">
+</p>
 
-My name is Vitor Amorim, I am 19 years old, and I am from Indaiatuba, SP. I currently work as a Web Development Intern at FIEC and hold a technical degree as an IT Technician. I am also in the second semester (2/6) of the Multiplatform Software Development (DSM) program at FATEC Indaiatuba.
+# Hi there! Welcome to my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="35" height="30" />
 
-## ⚙️ Languages and Technologies
+💻 My name is **Vitor Amorim**, and I work as a **Web Development Intern**, from Brazil!
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="30px" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="30px" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30px" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="30px" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="30px" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="30px" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJs" title="NodeJs" width="30px" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" title="MariaDB" width="30px" style="margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30px" style="margin-right: 10px;">
-</div>
+I hold a **Technical Degree in Informatics** from **FIEC** and I am currently pursuing an **Associate Degree** in **Multiplatform Software Development (DSM)** at **FATEC Indaiatuba**.
 
-## 📈 Statistics
+## ⚙️ Tech Stack
 
-<div style="display: flex; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VitorrAmorim&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical&include_all_commits=true&layout=compact&custom_title=Technologies&langs_count=8" alt="GitHub Technologies" height="200">
-</div>
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### DevOps & Tools
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
