@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Banner do Vitor Amorim" width="1000" height="250">
-</p>
-
 # Hi there! Welcome to my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="35" height="30" />
 
 💻 My name is **Vitor Amorim**, and I work as a **Web Development Intern**, from Brazil!
