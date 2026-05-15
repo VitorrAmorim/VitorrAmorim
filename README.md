@@ -1,6 +1,6 @@
 # Hi there! Welcome to my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="35" height="30" />
 
-💻 My name is **Vitor Amorim**, and I work as a **Web Development Intern**, from Brazil!
+💻 My name is **Vitor Amorim**, and I am a **Web Developer**, from Brazil!
 
 I hold a **Technical Degree in Informatics** from **FIEC** and I am currently pursuing an **Associate Degree** in **Multiplatform Software Development (DSM)** at **FATEC Indaiatuba**.
 
